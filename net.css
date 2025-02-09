@@ -1,0 +1,87 @@
+.header{
+    color: rgba(255, 0, 0, 0.682);
+    font-style: oblique;
+    font-size: 20px;
+    
+}
+.a{
+    padding:  0.5px  50px 100px 50px;
+    background-color: black;
+    margin: 30px auto;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 5px black;
+    width: 50%;
+    display: block;
+    text-align: left;
+    font-size: 25px;
+    color:white;
+
+}
+input{
+    margin: 10px;
+    padding: 18px 180px 18px 1px;
+    max-width: 400px;
+    font-size: 18px;
+    font-style: italic;
+ }
+ .d{
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 5px 170px 5px 130px;
+    margin: 15px
+
+
+ }
+ .r{
+    color: white;
+    margin: 5px;
+ }
+
+ 
+ .h{
+    color: white;
+    text-align: right;
+    background-color: black;
+    border-color: black;
+    margin-left: 100px;
+    text-decoration: none;
+ }
+ .l{
+   color: white;
+   font-size: 20px;
+   margin-top: 10px;
+   margin-left: 18px;
+   text-decoration: none;
+   }
+ .s{
+   color: white;
+   font-size: 20px;
+   margin-top: 30px;
+   margin-left: 18px;
+ }
+ .p{
+   font-size: 15px;
+   margin: 0px;
+ }
+ .back {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 180%;
+   background-image: url('images/ruls.jpg'); 
+   background-size: cover;
+   background-position: center;
+   z-index: -1; 
+   opacity: 0.7
+
+ }
+
+   
+
+
+
+
+
